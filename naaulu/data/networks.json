@@ -1,0 +1,67 @@
+{
+  "networks": [
+    {
+      "organisation": "noaa",
+      "network": "ghcn",
+      "temporal_resolution": "PT1H",
+      "country": null,
+      "region": "Global",
+      "start_date": "1850-01-01",
+      "end_date": null
+    },
+    {
+      "organisation": "vmm",
+      "network": "ott",
+      "temporal_resolution": "PT10M",
+      "country": "BEL",
+      "region": "Europe",
+      "start_date": "2010-01-01",
+      "end_date": null
+    },
+    {
+      "organisation": "fmi",
+      "network": "aws",
+      "temporal_resolution": "PT10M",
+      "country": "FIN",
+      "region": "Europe",
+      "start_date": "2000-01-01",
+      "end_date": null
+    },
+    {
+      "organisation": "estea",
+      "network": "aws",
+      "temporal_resolution": "PT10M",
+      "country": "EST",
+      "region": "Europe",
+      "start_date": "2000-01-01",
+      "end_date": null
+    },
+    {
+      "organisation": "iem",
+      "network": "asos",
+      "temporal_resolution": "PT1H",
+      "country": null,
+      "region": "North America",
+      "start_date": "2000-01-01",
+      "end_date": null
+    },
+    {
+      "organisation": "spw",
+      "network": "ott",
+      "temporal_resolution": "PT5M",
+      "country": "BEL",
+      "region": "Europe",
+      "start_date": "2015-01-01",
+      "end_date": null
+    },
+    {
+      "organisation": "dwd",
+      "network": "synop",
+      "temporal_resolution": "PT10M",
+      "country": "DEU",
+      "region": "Europe",
+      "start_date": "2000-01-01",
+      "end_date": null
+    }
+  ]
+}

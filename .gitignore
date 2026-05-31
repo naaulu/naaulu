@@ -1,0 +1,5 @@
+vcpkg_installed/
+.venv/
+__pycache__/
+*.pyc
+naaulu/version.py
