@@ -1,0 +1,63 @@
+[build-system]
+requires = ["hatchling", "hatch-vcs"]
+build-backend = "hatchling.build"
+
+[project]
+name = "naaulu"
+description = "Tools to build, combine, verify, and visualize rainfall estimation datasets"
+authors = [{ name = "Edouard Goudenhoofdt", email = "edouard@egouden.dev" }]
+license = {text = "AGPL-3.0-or-later"}
+requires-python = ">=3.14"
+dynamic = ["version"]
+
+dependencies = [
+'appdirs',
+'av',
+'boto3',
+'botocore',
+'bs4',
+'fmiopendata',
+'fsspec',
+'h5py',
+'isodate',
+'keyring',
+'matplotlib',
+'numpy',
+'pycountry',
+'pyarrow',
+'pyoscar',
+'pyproj',
+'requests',
+'shapely',
+'tqdm',
+'wradlib',
+'xarray',
+'xradar',
+]
+
+[project.urls]
+homepage = "https://github.com/naaulu/naaulu"
+
+[project.scripts]
+naaulu = "naaulu.cli:main"
+
+[tool.hatch.version]
+source = "vcs"
+
+[tool.hatch.build.targets.wheel]
+packages = ["naaulu"]
+
+[tool.hatch.build.hooks.vcs]
+version-file = "naaulu/version.py"
+
+[project.optional-dependencies]
+dev = ["pytest", "pytest-cov", "pytest-xdist"]
+viz = ["geovista"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-p no:anyio"
+markers = [
+    "network: tests that hit external APIs/S3 buckets",
+    "slow: tests that are slow due to large downloads",
+]

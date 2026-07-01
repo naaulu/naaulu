@@ -1,0 +1,26 @@
+when:
+  - event: push
+  - event: pull_request
+
+steps:
+  - name: test
+    image: ubuntu:latest
+    commands:
+      - apt-get update && apt-get install -y curl git
+      - curl -LsSf https://astral.sh/uv/install.sh | sh
+      - export PATH="$HOME/.local/bin:$PATH"
+      - bash install.sh
+      - . .venv/bin/activate
+      - pytest -v
+
+  - name: mirror
+    image: ubuntu:latest
+    when:
+      branch: main
+    environment:
+      GITHUB_TOKEN:
+        from_secret: GITHUB_TOKEN
+    commands:
+      - apt-get update && apt-get install -y git
+      - git remote add github https://$GITHUB_TOKEN@github.com/naaulu/naaulu.git
+      - git push github main -f
