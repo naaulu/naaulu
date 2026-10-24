@@ -1,0 +1,40 @@
+Naaulu
+======
+
+The naaulu source code is licensed under the GNU Affero General Public
+License v3.0 (see README.md). That license does not cover the data files
+listed below: they are redistributed here under the terms of their
+providers.
+
+Bundled data files
+------------------
+
+naaulu/data/radars_wmo.json
+naaulu/data/radars.json
+    Derived from the World Meteorological Organization (WMO) Weather Radar
+    Database, maintained on behalf of WMO by the Turkish State Meteorological
+    Service (TSMS): https://wrd.mgm.gov.tr
+    Licence: CC BY-SA 4.0
+    Attribution: "World Meteorological Organization (WMO)"
+
+naaulu/data/ne_50m_admin_0_countries.geojson
+naaulu/data/ne_10m_admin_0_countries.geojson
+    Natural Earth. Public domain; no credit required.
+
+naaulu/data/radars_usa.json
+naaulu/data/radars_aus.json
+naaulu/data/radars_opera.json
+naaulu/data/chmi_aws_stations.json
+    Compiled from public-sector sources (NOAA, Bureau of Meteorology via NCI,
+    EUMETNET OPERA, CHMI). See docs/data-sources.md for the provider and
+    licence of each.
+
+Administrative boundaries are not bundled: the country outlines drawn with
+--adm 2/--adm 3 (ADM0), the province tier drawn with --adm 2 (ADM2) and the
+city labels of --adm 3 are filled from Geofabrik Postpass queries into
+OpenStreetMap (ODbL, credit "© OpenStreetMap contributors") — by
+prefetch_boundaries.py at build time or on a plot's first use — cached in
+the user data directory, with the source and licence of every file
+recorded in a .meta.json next to it. The windows and country outlines used at --adm 1
+come from the bundled Natural Earth file (naaulu/data/
+ne_10m_admin_0_countries.geojson; public domain, no credit required).

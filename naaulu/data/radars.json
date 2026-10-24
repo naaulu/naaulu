@@ -1,0 +1,2753 @@
+{
+  "0-20010-0-07005": {
+    "lon": 1.8344,
+    "lat": 50.1358,
+    "start": "2009-01-01",
+    "country": "FRA",
+    "name": "Abbeville"
+  },
+  "0-21010-0-190": {
+    "lon": -98.4131,
+    "lat": 45.4558,
+    "start": "1990-01-01",
+    "country": "USA",
+    "name": "Aberdeen"
+  },
+  "0-20010-0-94672": {
+    "lon": 138.4689,
+    "lat": -34.6169,
+    "start": "2005-01-01",
+    "country": "AUS",
+    "name": "Adelaide Buckland Park"
+  },
+  "0-20010-0-95679": {
+    "lon": 138.5019,
+    "lat": -35.3294,
+    "start": "1993-01-01",
+    "country": "AUS",
+    "name": "Adelaide Sellicks Hill"
+  },
+  "0-21010-0-715": {
+    "lon": 8.7006,
+    "lat": 41.9531,
+    "start": "2017-01-01",
+    "country": "FRA",
+    "name": "Ajaccio"
+  },
+  "0-21010-0-191": {
+    "lon": -74.0639,
+    "lat": 42.5864,
+    "start": "2016-07-01",
+    "country": "USA",
+    "name": "Albany"
+  },
+  "0-21010-0-494": {
+    "lon": 117.8158,
+    "lat": -34.9411,
+    "start": "2011-01-01",
+    "country": "AUS",
+    "name": "Albany"
+  },
+  "0-21010-0-192": {
+    "lon": -106.8239,
+    "lat": 35.1497,
+    "start": "2013-03-15",
+    "country": "USA",
+    "name": "Albuquerque"
+  },
+  "0-20010-0-07774": {
+    "lon": 9.4964,
+    "lat": 42.1297,
+    "start": "2003-01-01",
+    "country": "FRA",
+    "name": "Al\u00e9ria"
+  },
+  "0-20010-0-94326": {
+    "lon": 133.8889,
+    "lat": -23.795,
+    "start": "2001-01-01",
+    "country": "AUS",
+    "name": "Alice Springs"
+  },
+  "0-21010-0-193": {
+    "lon": -98.9767,
+    "lat": 34.3619,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Altus Afb"
+  },
+  "0-21010-0-194": {
+    "lon": -101.7092,
+    "lat": 35.2333,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Amarillo"
+  },
+  "0-21010-0-195": {
+    "lon": -151.3644,
+    "lat": 60.7258,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Anchorage"
+  },
+  "0-21010-0-196": {
+    "lon": 144.8111,
+    "lat": 13.4558,
+    "start": "2019-07-30",
+    "country": "USA",
+    "name": "Andersen Afb"
+  },
+  "0-20010-0-02954": {
+    "lon": 27.1081,
+    "lat": 60.9039,
+    "start": "1994-04-05",
+    "country": "FIN",
+    "name": "Anjalankoski"
+  },
+  "0-21010-0-51": {
+    "lon": 4.3094,
+    "lat": 48.4622,
+    "start": "2017-05-12",
+    "country": "FRA",
+    "name": "Arcis-sur-Aube"
+  },
+  "0-21010-0-197": {
+    "lon": -84.5658,
+    "lat": 33.3633,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Atlanta"
+  },
+  "0-21010-0-198": {
+    "lon": -98.0286,
+    "lat": 29.7039,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Austin/San Antonio"
+  },
+  "0-20010-0-07083": {
+    "lon": 3.8119,
+    "lat": 50.1283,
+    "start": "2005-01-01",
+    "country": "FRA",
+    "name": "Avesnes"
+  },
+  "0-21010-0-199": {
+    "lon": -121.6317,
+    "lat": 39.4961,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Beale Afb"
+  },
+  "0-21010-0-200": {
+    "lon": -161.8764,
+    "lat": 60.7919,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Bethel"
+  },
+  "0-21010-0-201": {
+    "lon": -108.6067,
+    "lat": 45.8536,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Billings"
+  },
+  "0-21010-0-202": {
+    "lon": -75.9847,
+    "lat": 42.1994,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Binghamton"
+  },
+  "0-21010-0-203": {
+    "lon": -86.7697,
+    "lat": 33.1719,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Birmingham"
+  },
+  "0-21010-0-204": {
+    "lon": -100.7603,
+    "lat": 46.7708,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Bismarck"
+  },
+  "0-20010-0-07274": {
+    "lon": 4.7758,
+    "lat": 47.355,
+    "start": "2006-01-01",
+    "country": "FRA",
+    "name": "Blaisy-Haut"
+  },
+  "0-20010-0-10384": {
+    "lon": 13.3881,
+    "lat": 52.4786,
+    "start": "2015-12-19",
+    "country": "DEU",
+    "name": "BLN old"
+  },
+  "0-21010-0-205": {
+    "lon": -116.2417,
+    "lat": 43.49,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Boise"
+  },
+  "0-20010-0-07569": {
+    "lon": 4.7622,
+    "lat": 44.3231,
+    "start": "2000-01-01",
+    "country": "FRA",
+    "name": "Boll\u00e8ne"
+  },
+  "0-20010-0-10132": {
+    "lon": 10.0469,
+    "lat": 54.0044,
+    "start": "2014-01-01",
+    "country": "DEU",
+    "name": "BOO"
+  },
+  "0-20010-0-07510": {
+    "lon": -0.6919,
+    "lat": 44.8314,
+    "start": "2014-01-01",
+    "country": "FRA",
+    "name": "Bordeaux"
+  },
+  "0-21010-0-206": {
+    "lon": -71.1367,
+    "lat": 41.9556,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Boston"
+  },
+  "0-20010-0-07255": {
+    "lon": 2.3594,
+    "lat": 47.0586,
+    "start": "1987-01-01",
+    "country": "FRA",
+    "name": "Bourges"
+  },
+  "0-21010-0-496": {
+    "lon": 148.0756,
+    "lat": -19.8858,
+    "start": "2004-01-01",
+    "country": "AUS",
+    "name": "Bowen"
+  },
+  "0-20000-0-11480": {
+    "lon": 13.8178,
+    "lat": 49.6583,
+    "start": "2015-01-01",
+    "country": "CZE",
+    "name": "Brdy-Praha"
+  },
+  "0-21010-0-831": {
+    "lon": 146.8136,
+    "lat": -29.9708,
+    "start": "2020-10-08",
+    "country": "AUS",
+    "name": "Brewarrina"
+  },
+  "0-21010-0-836": {
+    "lon": 153.13,
+    "lat": -27.3915,
+    "start": "2022-11-03",
+    "country": "AUS",
+    "name": "Brisbane"
+  },
+  "0-20010-0-94578": {
+    "lon": 153.24,
+    "lat": -27.7181,
+    "start": "2005-01-01",
+    "country": "AUS",
+    "name": "Brisbane Mt Stapylton"
+  },
+  "0-21010-0-207": {
+    "lon": -72.8639,
+    "lat": 40.8653,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Brookhaven"
+  },
+  "0-20010-0-94203": {
+    "lon": 122.2353,
+    "lat": -17.9483,
+    "start": "2008-01-01",
+    "country": "AUS",
+    "name": "Broome"
+  },
+  "0-21010-0-208": {
+    "lon": -97.4186,
+    "lat": 25.9156,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Brownsville"
+  },
+  "0-21010-0-209": {
+    "lon": -78.7369,
+    "lat": 42.9486,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Buffalo"
+  },
+  "0-21010-0-210": {
+    "lon": -73.1664,
+    "lat": 44.5111,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Burlington"
+  },
+  "0-21010-0-498": {
+    "lon": 145.7458,
+    "lat": -16.8736,
+    "start": "1962-01-01",
+    "country": "AUS",
+    "name": "Cairns Airport"
+  },
+  "0-21010-0-211": {
+    "lon": 127.2917,
+    "lat": 37.2075,
+    "start": "2019-07-30",
+    "country": "USA",
+    "name": "Camp Humphreys"
+  },
+  "0-20010-0-70341": {
+    "lon": 149.5122,
+    "lat": -35.6614,
+    "start": "2002-01-01",
+    "country": "AUS",
+    "name": "Canberra Captains Flat"
+  },
+  "0-21010-0-212": {
+    "lon": -103.6189,
+    "lat": 34.6342,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Cannon Afb"
+  },
+  "0-21010-0-213": {
+    "lon": -67.8064,
+    "lat": 46.0392,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Caribou"
+  },
+  "0-20010-0-94300": {
+    "lon": 113.6694,
+    "lat": -24.8883,
+    "start": "2009-01-01",
+    "country": "AUS",
+    "name": "Carnarvon"
+  },
+  "0-21010-0-214": {
+    "lon": -112.8622,
+    "lat": 37.5908,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Cedar City"
+  },
+  "0-20010-0-94653": {
+    "lon": 133.6963,
+    "lat": -32.1298,
+    "start": "2010-01-01",
+    "country": "AUS",
+    "name": "Ceduna"
+  },
+  "0-21010-0-369": {
+    "lon": -80.8153,
+    "lat": 28.3539,
+    "start": "2009-01-01",
+    "country": "USA",
+    "name": "CFN13"
+  },
+  "0-21010-0-215": {
+    "lon": -81.0419,
+    "lat": 32.6553,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Charleston, Sc"
+  },
+  "0-21010-0-216": {
+    "lon": -81.7228,
+    "lat": 38.3111,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Charleston, Wv"
+  },
+  "0-20010-0-94510": {
+    "lon": 146.27,
+    "lat": -26.42,
+    "start": "2015-03-27",
+    "country": "AUS",
+    "name": "Charleville"
+  },
+  "0-20010-0-07336": {
+    "lon": 0.0656,
+    "lat": 46.6986,
+    "start": "2005-01-01",
+    "country": "FRA",
+    "name": "Cherves"
+  },
+  "0-21010-0-217": {
+    "lon": -104.8061,
+    "lat": 41.0019,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Cheyenne"
+  },
+  "0-21010-0-218": {
+    "lon": -88.0844,
+    "lat": 41.6044,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Chicago"
+  },
+  "0-21010-0-219": {
+    "lon": -83.8217,
+    "lat": 39.4203,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Cincinnati"
+  },
+  "0-21010-0-220": {
+    "lon": -81.86,
+    "lat": 41.4131,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Cleveland"
+  },
+  "0-20010-0-94791": {
+    "lon": 153.12,
+    "lat": -30.32,
+    "start": "1997-01-01",
+    "country": "AUS",
+    "name": "Coffs Hb"
+  },
+  "0-20010-0-07671": {
+    "lon": 6.3728,
+    "lat": 43.2164,
+    "start": "2012-01-01",
+    "country": "FRA",
+    "name": "Collobri\u00e8res"
+  },
+  "0-21010-0-221": {
+    "lon": -81.1186,
+    "lat": 33.9486,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Columbia"
+  },
+  "0-21010-0-222": {
+    "lon": -88.3292,
+    "lat": 33.8967,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Columbus Afb"
+  },
+  "0-21010-0-223": {
+    "lon": -97.5108,
+    "lat": 27.7839,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Corpus Christi"
+  },
+  "0-21010-0-224": {
+    "lon": -97.3031,
+    "lat": 32.5728,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Dallas/Ft Worth"
+  },
+  "0-21010-0-500": {
+    "lon": 116.683,
+    "lat": -20.6535,
+    "start": "1990-01-01",
+    "country": "AUS",
+    "name": "Dampier"
+  },
+  "0-20010-0-94120": {
+    "lon": 130.8919,
+    "lat": -12.4247,
+    "start": "2008-01-01",
+    "country": "AUS",
+    "name": "Darwin Airport"
+  },
+  "0-21010-0-495": {
+    "lon": 130.925,
+    "lat": -12.457,
+    "start": "2014-01-01",
+    "country": "AUS",
+    "name": "Darwin Berrimah"
+  },
+  "0-20010-0-06260": {
+    "lon": 5.1783,
+    "lat": 52.1019,
+    "start": "1996-01-01",
+    "country": "NLD",
+    "name": "De Bilt"
+  },
+  "0-20010-0-06234": {
+    "lon": 4.79,
+    "lat": 52.9536,
+    "start": "2016-01-01",
+    "country": "NLD",
+    "name": "Den Helder"
+  },
+  "0-21010-0-225": {
+    "lon": -104.5456,
+    "lat": 39.7864,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Denver"
+  },
+  "0-21010-0-226": {
+    "lon": -93.7228,
+    "lat": 41.7311,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Des Moines"
+  },
+  "0-21010-0-227": {
+    "lon": -83.4717,
+    "lat": 42.7,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Detroit"
+  },
+  "0-21010-0-228": {
+    "lon": -99.9689,
+    "lat": 37.7608,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Dodge City"
+  },
+  "0-21010-0-229": {
+    "lon": -75.44,
+    "lat": 38.8256,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Dover Afb"
+  },
+  "0-20010-0-10488": {
+    "lon": 13.7686,
+    "lat": 51.1247,
+    "start": "2015-03-17",
+    "country": "DEU",
+    "name": "DRS"
+  },
+  "0-21010-0-230": {
+    "lon": -92.2097,
+    "lat": 46.8369,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Duluth"
+  },
+  "0-21010-0-231": {
+    "lon": -99.2542,
+    "lat": 32.5383,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Dyess Afb"
+  },
+  "0-21010-0-232": {
+    "lon": -117.5606,
+    "lat": 35.0978,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Edwards Afb"
+  },
+  "0-21010-0-233": {
+    "lon": -85.9217,
+    "lat": 30.565,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Eglin Afb"
+  },
+  "0-20010-0-10780": {
+    "lon": 12.4028,
+    "lat": 49.5406,
+    "start": "2014-10-08",
+    "country": "DEU",
+    "name": "EIS"
+  },
+  "0-21010-0-234": {
+    "lon": -106.6978,
+    "lat": 39.7064,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "El Paso"
+  },
+  "0-21010-0-235": {
+    "lon": -116.8028,
+    "lat": 40.7397,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Elko"
+  },
+  "0-20010-0-10204": {
+    "lon": 7.0239,
+    "lat": 53.3386,
+    "start": "1994-01-01",
+    "country": "DEU",
+    "name": "EMD old"
+  },
+  "0-20010-0-35277": {
+    "lon": 148.2392,
+    "lat": -23.5498,
+    "start": "2010-01-01",
+    "country": "AUS",
+    "name": "Emerald"
+  },
+  "0-20010-0-94638": {
+    "lon": 121.8917,
+    "lat": -33.8303,
+    "start": "2009-01-01",
+    "country": "AUS",
+    "name": "Esperance"
+  },
+  "0-20010-0-10410": {
+    "lon": 6.9671,
+    "lat": 51.4056,
+    "start": "2012-02-14",
+    "country": "DEU",
+    "name": "ESS"
+  },
+  "0-20010-0-94647": {
+    "lon": 128.8897,
+    "lat": -31.6797,
+    "start": "2014-05-05",
+    "country": "AUS",
+    "name": "Eucla"
+  },
+  "0-21010-0-236": {
+    "lon": -124.2919,
+    "lat": 40.4983,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Eureka (Bunker Hill)"
+  },
+  "0-21010-0-237": {
+    "lon": -87.7244,
+    "lat": 38.26,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Evansville, In"
+  },
+  "0-21010-0-238": {
+    "lon": -147.5142,
+    "lat": 65.0511,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Fairbanks"
+  },
+  "0-20010-0-07129": {
+    "lon": -0.1494,
+    "lat": 48.9272,
+    "start": "2014-01-01",
+    "country": "FRA",
+    "name": "Falaise"
+  },
+  "0-21010-0-239": {
+    "lon": -97.325,
+    "lat": 47.5281,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Fargo/Grand Forks"
+  },
+  "0-20010-0-10908": {
+    "lon": 8.0036,
+    "lat": 47.8736,
+    "start": "2012-11-20",
+    "country": "DEU",
+    "name": "FBG"
+  },
+  "0-20010-0-11052": {
+    "lon": 13.0619,
+    "lat": 48.065,
+    "start": "2013-03-14",
+    "country": "AUT",
+    "name": "Feldkrichen 11052"
+  },
+  "0-21010-0-240": {
+    "lon": -111.1983,
+    "lat": 34.5742,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Flagstaff"
+  },
+  "0-20010-0-10440": {
+    "lon": 8.8019,
+    "lat": 51.3111,
+    "start": "2014-01-01",
+    "country": "DEU",
+    "name": "FLD"
+  },
+  "0-20010-0-10434": {
+    "lon": 8.8525,
+    "lat": 51.335,
+    "start": "2015-12-19",
+    "country": "DEU",
+    "name": "FLD old"
+  },
+  "0-20010-0-10630": {
+    "lon": 8.5597,
+    "lat": 50.0233,
+    "start": "2015-12-19",
+    "country": "DEU",
+    "name": "FRI old"
+  },
+  "0-21010-0-241": {
+    "lon": -87.285,
+    "lat": 36.7367,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Ft Campbell"
+  },
+  "0-21010-0-242": {
+    "lon": -75.68,
+    "lat": 43.7558,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Ft Drum"
+  },
+  "0-21010-0-243": {
+    "lon": -97.3828,
+    "lat": 30.7217,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Ft Hood"
+  },
+  "0-21010-0-244": {
+    "lon": -92.9758,
+    "lat": 31.1553,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Ft Polk"
+  },
+  "0-21010-0-245": {
+    "lon": -85.4592,
+    "lat": 31.4606,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Ft Rucker"
+  },
+  "0-20010-0-94403": {
+    "lon": 114.6972,
+    "lat": -28.8044,
+    "start": "2011-01-01",
+    "country": "AUS",
+    "name": "Geraldton"
+  },
+  "0-20010-0-94461": {
+    "lon": 128.3,
+    "lat": -25.03,
+    "start": "1992-01-01",
+    "country": "AUS",
+    "name": "Giles"
+  },
+  "0-21010-0-501": {
+    "lon": 147.5755,
+    "lat": -37.8876,
+    "start": "2008-01-01",
+    "country": "AUS",
+    "name": "Gippsland Bairnsdale"
+  },
+  "0-20010-0-94380": {
+    "lon": 151.2626,
+    "lat": -23.855,
+    "start": "2004-01-01",
+    "country": "AUS",
+    "name": "Gladstone"
+  },
+  "0-21010-0-246": {
+    "lon": -106.6244,
+    "lat": 48.2061,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Glasgow"
+  },
+  "0-21010-0-247": {
+    "lon": -101.7003,
+    "lat": 39.3669,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Goodland"
+  },
+  "0-20010-0-94150": {
+    "lon": 136.823,
+    "lat": -12.275,
+    "start": "2007-01-01",
+    "country": "AUS",
+    "name": "Gove"
+  },
+  "0-20010-0-95571": {
+    "lon": 152.951,
+    "lat": -29.622,
+    "start": "1998-01-01",
+    "country": "AUS",
+    "name": "Grafton"
+  },
+  "0-21010-0-248": {
+    "lon": -98.4419,
+    "lat": 40.3208,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Grand Island"
+  },
+  "0-21010-0-249": {
+    "lon": -108.2136,
+    "lat": 39.0622,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Grand Junction"
+  },
+  "0-21010-0-250": {
+    "lon": -85.5447,
+    "lat": 42.8939,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Grand Rapids"
+  },
+  "0-21010-0-251": {
+    "lon": -111.3853,
+    "lat": 47.4597,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Great Falls"
+  },
+  "0-21010-0-252": {
+    "lon": -88.1111,
+    "lat": 44.4986,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Green Bay"
+  },
+  "0-21010-0-832": {
+    "lon": 144.9405,
+    "lat": -18.9803,
+    "start": "2021-10-13",
+    "country": "AUS",
+    "name": "Greenvale"
+  },
+  "0-21010-0-253": {
+    "lon": -82.2197,
+    "lat": 34.8831,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Greer"
+  },
+  "0-20010-0-07436": {
+    "lon": 1.3697,
+    "lat": 45.1044,
+    "start": "2011-01-01",
+    "country": "FRA",
+    "name": "Gr\u00e8zes"
+  },
+  "0-21010-0-502": {
+    "lon": 131.0447,
+    "lat": -12.2492,
+    "start": "2004-01-01",
+    "country": "AUS",
+    "name": "Gunn Point Research"
+  },
+  "0-20010-0-99088": {
+    "lon": 152.577,
+    "lat": -25.9574,
+    "start": "2007-01-01",
+    "country": "AUS",
+    "name": "Gympie Mt Kanighan"
+  },
+  "0-20010-0-94212": {
+    "lon": 127.663,
+    "lat": -18.231,
+    "start": "2000-01-01",
+    "country": "AUS",
+    "name": "Halls Ck"
+  },
+  "0-20010-0-10147": {
+    "lon": 9.9978,
+    "lat": 53.6219,
+    "start": "2015-12-19",
+    "country": "DEU",
+    "name": "HAM old"
+  },
+  "0-20010-0-10338": {
+    "lon": 9.6983,
+    "lat": 52.4631,
+    "start": "2015-12-19",
+    "country": "DEU",
+    "name": "HAN old"
+  },
+  "0-21010-0-41": {
+    "lon": 24.6021303,
+    "lat": 59.3970759,
+    "start": "2009-10-31",
+    "country": "EST",
+    "name": "Harku"
+  },
+  "0-20010-0-06356": {
+    "lon": 5.1381,
+    "lat": 51.8369,
+    "start": "2016-01-01",
+    "country": "NLD",
+    "name": "Herwijnen"
+  },
+  "0-21010-0-833": {
+    "lon": 145.5286,
+    "lat": -33.552,
+    "start": "2021-07-26",
+    "country": "AUS",
+    "name": "Hillston"
+  },
+  "0-20010-0-10339": {
+    "lon": 9.6945,
+    "lat": 52.46,
+    "start": "2014-01-01",
+    "country": "DEU",
+    "name": "HNR"
+  },
+  "0-20010-0-94975": {
+    "lon": 147.5008,
+    "lat": -42.8374,
+    "start": "1990-01-01",
+    "country": "AUS",
+    "name": "Hobart Airport"
+  },
+  "0-21010-0-503": {
+    "lon": 147.8057,
+    "lat": -43.1122,
+    "start": "2012-01-01",
+    "country": "AUS",
+    "name": "Hobart Mt Koonya"
+  },
+  "0-21010-0-254": {
+    "lon": -106.12,
+    "lat": 33.17,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Holloman AFB"
+  },
+  "0-21010-0-255": {
+    "lon": -95.0789,
+    "lat": 29.4719,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Houston"
+  },
+  "0-21010-0-44": {
+    "lon": 23.0764,
+    "lat": 61.7673,
+    "start": "1994-06-15",
+    "country": "FIN",
+    "name": "Ikaalinen"
+  },
+  "0-21010-0-256": {
+    "lon": -86.2803,
+    "lat": 39.7075,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Indianapolis"
+  },
+  "0-20010-0-10873": {
+    "lon": 12.1017,
+    "lat": 48.1747,
+    "start": "2014-01-01",
+    "country": "DEU",
+    "name": "ISN"
+  },
+  "0-20010-0-06410": {
+    "lon": 3.0642,
+    "lat": 51.1919,
+    "start": "2012-01-01",
+    "country": "BEL",
+    "name": "Jabbeke"
+  },
+  "0-21010-0-257": {
+    "lon": -83.3131,
+    "lat": 37.5908,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Jackson, Ky"
+  },
+  "0-21010-0-258": {
+    "lon": -89.9844,
+    "lat": 32.28,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Jackson/Brandon, Ms"
+  },
+  "0-21010-0-259": {
+    "lon": -81.1083,
+    "lat": 30.4961,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Jacksonville"
+  },
+  "0-21010-0-720": {
+    "lon": 15.6983,
+    "lat": 49.4844,
+    "start": "2019-03-11",
+    "country": "CZE",
+    "name": "Jihlava MeteoSense  Meteopress"
+  },
+  "0-21010-0-370": {
+    "lon": -118.6008,
+    "lat": 34.3297,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "KABC"
+  },
+  "0-21010-0-260": {
+    "lon": 127.9097,
+    "lat": 26.3019,
+    "start": "2019-07-30",
+    "country": "USA",
+    "name": "Kadena Ab"
+  },
+  "0-21010-0-371": {
+    "lon": -92.5581,
+    "lat": 31.3231,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "KALB"
+  },
+  "0-20010-0-94637": {
+    "lon": 121.4549,
+    "lat": -30.7843,
+    "start": "2014-01-01",
+    "country": "AUS",
+    "name": "Kalgoorlie"
+  },
+  "0-21010-0-261": {
+    "lon": -155.7778,
+    "lat": 20.1253,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Kamuela/Kohala Apt"
+  },
+  "0-21010-0-815": {
+    "lon": 22.502,
+    "lat": 61.8108,
+    "start": "2022-06-14",
+    "country": "FIN",
+    "name": "Kankaanpaa"
+  },
+  "0-21010-0-372": {
+    "lon": -93.2561,
+    "lat": 44.7975,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "KARE"
+  },
+  "0-21010-0-843": {
+    "lon": 116.8758,
+    "lat": -20.9924,
+    "start": "2024-10-17",
+    "country": "AUS",
+    "name": "Karratha"
+  },
+  "0-21010-0-373": {
+    "lon": -90.0556,
+    "lat": 30.2228,
+    "start": "2002-01-01",
+    "country": "USA",
+    "name": "KATC"
+  },
+  "0-21010-0-509": {
+    "lon": 132.446,
+    "lat": -14.513,
+    "start": "1990-01-01",
+    "country": "AUS",
+    "name": "Katherine Tindal"
+  },
+  "0-21010-0-842": {
+    "lon": 27.444,
+    "lat": 68.4344,
+    "start": "2024-09-24",
+    "country": "FIN",
+    "name": "Kaunispaa"
+  },
+  "0-21010-0-374": {
+    "lon": -93.6211,
+    "lat": 41.8067,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "KCCI"
+  },
+  "0-21010-0-375": {
+    "lon": -104.5644,
+    "lat": 39.8597,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "KCNC"
+  },
+  "0-21010-0-376": {
+    "lon": -80.0178,
+    "lat": 40.4939,
+    "start": "2004-01-01",
+    "country": "USA",
+    "name": "KDKA"
+  },
+  "0-21010-0-377": {
+    "lon": -98.2186,
+    "lat": 44.3847,
+    "start": "2007-01-01",
+    "country": "USA",
+    "name": "KELO-1"
+  },
+  "0-21010-0-378": {
+    "lon": -98.5611,
+    "lat": 29.5078,
+    "start": "2004-01-01",
+    "country": "USA",
+    "name": "KENS"
+  },
+  "0-21010-0-351": {
+    "lon": 25.1139,
+    "lat": 60.3881,
+    "start": "2013-03-28",
+    "country": "FIN",
+    "name": "Kerava"
+  },
+  "0-20010-0-02995": {
+    "lon": 29.7977,
+    "lat": 61.907,
+    "start": "2014-12-12",
+    "country": "FIN",
+    "name": "Kesalahti"
+  },
+  "0-21010-0-262": {
+    "lon": -81.7033,
+    "lat": 24.5969,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Key West"
+  },
+  "0-21010-0-379": {
+    "lon": -98.0569,
+    "lat": 30.6294,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "KEYE"
+  },
+  "0-21010-0-263": {
+    "lon": -156.6294,
+    "lat": 58.6794,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "King Salmon"
+  },
+  "0-21010-0-380": {
+    "lon": -95.6753,
+    "lat": 36.0197,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "KJRH"
+  },
+  "0-21010-0-264": {
+    "lon": -83.4019,
+    "lat": 36.1683,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Knoxville"
+  },
+  "0-21010-0-381": {
+    "lon": -104.5583,
+    "lat": 38.3733,
+    "start": "2008-01-01",
+    "country": "USA",
+    "name": "KOAA"
+  },
+  "0-21010-0-382": {
+    "lon": -97.4886,
+    "lat": 35.5642,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "KOCO"
+  },
+  "0-20010-0-02933": {
+    "lon": 21.643,
+    "lat": 60.1285,
+    "start": "1997-08-15",
+    "country": "FIN",
+    "name": "Korpo"
+  },
+  "0-21010-0-383": {
+    "lon": -122.1031,
+    "lat": 38.3981,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "KPIX"
+  },
+  "0-21010-0-384": {
+    "lon": -95.4881,
+    "lat": 29.5742,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "KRIV"
+  },
+  "0-21010-0-385": {
+    "lon": -97.7903,
+    "lat": 37.8981,
+    "start": "2000-01-01",
+    "country": "USA",
+    "name": "KSNW"
+  },
+  "0-21010-0-386": {
+    "lon": -95.475,
+    "lat": 29.5739,
+    "start": "2007-01-01",
+    "country": "USA",
+    "name": "KTRK"
+  },
+  "0-21010-0-387": {
+    "lon": -97.6375,
+    "lat": 32.7869,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "KTVT"
+  },
+  "0-21010-0-352": {
+    "lon": 24.9631,
+    "lat": 60.2044,
+    "start": "2012-09-12",
+    "country": "FIN",
+    "name": "Kumpula"
+  },
+  "0-21010-0-265": {
+    "lon": 126.6222,
+    "lat": 35.9242,
+    "start": "2019-07-30",
+    "country": "USA",
+    "name": "Kunsan Ab"
+  },
+  "0-20010-0-02918": {
+    "lon": 27.3815,
+    "lat": 62.8626,
+    "start": "1995-12-15",
+    "country": "FIN",
+    "name": "Kuopio"
+  },
+  "0-21010-0-504": {
+    "lon": 151.2263,
+    "lat": -34.0148,
+    "start": "1999-01-01",
+    "country": "AUS",
+    "name": "Kurnell"
+  },
+  "0-21010-0-388": {
+    "lon": -112.2881,
+    "lat": 41.2539,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "KUTV"
+  },
+  "0-21010-0-266": {
+    "lon": -91.1911,
+    "lat": 43.8228,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "La Crosse"
+  },
+  "0-21010-0-267": {
+    "lon": -27.3206,
+    "lat": 38.73,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Lajes Ab"
+  },
+  "0-21010-0-268": {
+    "lon": -93.2158,
+    "lat": 30.1253,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Lake Charles"
+  },
+  "0-21010-0-269": {
+    "lon": -114.8914,
+    "lat": 35.7011,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Las Vegas"
+  },
+  "0-21010-0-270": {
+    "lon": -100.2803,
+    "lat": 29.2725,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Laughlin Afb"
+  },
+  "0-21010-0-499": {
+    "lon": 113.999,
+    "lat": -22.103,
+    "start": "2003-01-01",
+    "country": "AUS",
+    "name": "Learmonth"
+  },
+  "0-21010-0-271": {
+    "lon": -89.2033,
+    "lat": 40.155,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Lincoln"
+  },
+  "0-21010-0-272": {
+    "lon": -92.2619,
+    "lat": 34.8364,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Little Rock"
+  },
+  "0-20010-0-94346": {
+    "lon": 144.29,
+    "lat": -23.43,
+    "start": "1996-01-01",
+    "country": "AUS",
+    "name": "Longreach"
+  },
+  "0-21010-0-273": {
+    "lon": -119.1786,
+    "lat": 34.4117,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Los Angeles"
+  },
+  "0-21010-0-274": {
+    "lon": -85.8439,
+    "lat": 37.9753,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Louisville"
+  },
+  "0-21010-0-275": {
+    "lon": -101.8142,
+    "lat": 33.6539,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Lubbock"
+  },
+  "0-20010-0-02840": {
+    "lon": 26.8969,
+    "lat": 67.1391,
+    "start": "2000-08-01",
+    "country": "FIN",
+    "name": "Luosto"
+  },
+  "0-20010-0-94367": {
+    "lon": 149.217,
+    "lat": -21.117,
+    "start": "2006-01-01",
+    "country": "AUS",
+    "name": "Mackay"
+  },
+  "0-21010-0-505": {
+    "lon": 152.539,
+    "lat": -27.608,
+    "start": "1993-01-01",
+    "country": "AUS",
+    "name": "Marburg"
+  },
+  "0-21010-0-276": {
+    "lon": -87.5483,
+    "lat": 46.5311,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Marquette"
+  },
+  "0-21010-0-277": {
+    "lon": -85.7897,
+    "lat": 32.5364,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Maxwell Afb"
+  },
+  "0-21010-0-278": {
+    "lon": -122.7236,
+    "lat": 42.0811,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Medford"
+  },
+  "0-21010-0-279": {
+    "lon": -80.6544,
+    "lat": 28.1131,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Melbourne"
+  },
+  "0-21010-0-506": {
+    "lon": 144.8311,
+    "lat": -37.6656,
+    "start": "1999-01-01",
+    "country": "AUS",
+    "name": "Melbourne Airport"
+  },
+  "0-21010-0-497": {
+    "lon": 144.946,
+    "lat": -37.691,
+    "start": "2017-01-01",
+    "country": "AUS",
+    "name": "Melbourne Broadmeadows"
+  },
+  "0-20010-0-94865": {
+    "lon": 144.7554,
+    "lat": -37.8553,
+    "start": "2007-01-01",
+    "country": "AUS",
+    "name": "Melbourne Laverton"
+  },
+  "0-20010-0-10950": {
+    "lon": 10.2192,
+    "lat": 48.0422,
+    "start": "2013-01-01",
+    "country": "DEU",
+    "name": "MEM"
+  },
+  "0-21010-0-280": {
+    "lon": -89.8733,
+    "lat": 35.3447,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Memphis"
+  },
+  "0-21010-0-281": {
+    "lon": -80.4131,
+    "lat": 25.6106,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Miami"
+  },
+  "0-21010-0-282": {
+    "lon": -146.3011,
+    "lat": 59.4619,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Middleton Island"
+  },
+  "0-21010-0-283": {
+    "lon": -102.1892,
+    "lat": 31.9461,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Midland/Odessa"
+  },
+  "0-20010-0-94693": {
+    "lon": 141.5982,
+    "lat": -34.2871,
+    "start": "1989-01-01",
+    "country": "AUS",
+    "name": "Mildura"
+  },
+  "0-21010-0-284": {
+    "lon": -88.5506,
+    "lat": 42.9678,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Milwaukee"
+  },
+  "0-21010-0-285": {
+    "lon": -93.5653,
+    "lat": 44.8489,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Minneapolis"
+  },
+  "0-21010-0-286": {
+    "lon": -100.8644,
+    "lat": 48.3925,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Minot AFB"
+  },
+  "0-21010-0-287": {
+    "lon": -113.9861,
+    "lat": 47.0411,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Missoula"
+  },
+  "0-21010-0-721": {
+    "lon": 14.9572,
+    "lat": 50.4142,
+    "start": "2019-03-11",
+    "country": "CZE",
+    "name": "Mlad\u00e1 Boleslav MeteoSense  Mete"
+  },
+  "0-21010-0-288": {
+    "lon": -88.2397,
+    "lat": 30.6794,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Mobile"
+  },
+  "0-21010-0-289": {
+    "lon": -157.1803,
+    "lat": 21.1328,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Molokai"
+  },
+  "0-20010-0-07606": {
+    "lon": -0.6094,
+    "lat": 43.6244,
+    "start": "2006-01-01",
+    "country": "FRA",
+    "name": "Momuy"
+  },
+  "0-20010-0-07578": {
+    "lon": 6.2206,
+    "lat": 44.4961,
+    "start": "2012-01-01",
+    "country": "FRA",
+    "name": "Mont Colombis"
+  },
+  "0-20010-0-07572": {
+    "lon": 6.5292,
+    "lat": 44.0128,
+    "start": "2010-01-01",
+    "country": "FRA",
+    "name": "Mont Maurel"
+  },
+  "0-20010-0-07291": {
+    "lon": 7.0189,
+    "lat": 47.3686,
+    "start": "2007-01-01",
+    "country": "FRA",
+    "name": "Montancy"
+  },
+  "0-20010-0-07637": {
+    "lon": 2.6097,
+    "lat": 43.9906,
+    "start": "2005-01-01",
+    "country": "FRA",
+    "name": "Montclar"
+  },
+  "0-21010-0-290": {
+    "lon": -83.0139,
+    "lat": 30.8903,
+    "start": "2012-11-04",
+    "country": "USA",
+    "name": "Moody Afb"
+  },
+  "0-20010-0-95527": {
+    "lon": 149.85,
+    "lat": -29.5,
+    "start": "1995-01-01",
+    "country": "AUS",
+    "name": "Moree"
+  },
+  "0-21010-0-291": {
+    "lon": -76.8764,
+    "lat": 34.7758,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Morehead City"
+  },
+  "0-20010-0-94256": {
+    "lon": 139.167,
+    "lat": -16.666,
+    "start": "1999-01-01",
+    "country": "AUS",
+    "name": "Mornington Island"
+  },
+  "0-20010-0-07468": {
+    "lon": 5.6394,
+    "lat": 45.1478,
+    "start": "2014-01-01",
+    "country": "FRA",
+    "name": "Moucherotte"
+  },
+  "0-20010-0-29180": {
+    "lon": 139.5552,
+    "lat": -20.7112,
+    "start": "2012-01-01",
+    "country": "AUS",
+    "name": "Mount Isa"
+  },
+  "0-20010-0-94821": {
+    "lon": 140.7747,
+    "lat": -37.7478,
+    "start": "2004-01-01",
+    "country": "AUS",
+    "name": "Mt Gambier"
+  },
+  "0-21010-0-507": {
+    "lon": 146.78,
+    "lat": -19.3514,
+    "start": "2014-09-22",
+    "country": "AUS",
+    "name": "MtStuart"
+  },
+  "0-20010-0-10871": {
+    "lon": 11.6128,
+    "lat": 48.3372,
+    "start": "2015-12-19",
+    "country": "DEU",
+    "name": "M\u00fcnchen alt"
+  },
+  "0-20010-0-55286": {
+    "lon": 150.1917,
+    "lat": -31.0236,
+    "start": "2010-01-01",
+    "country": "AUS",
+    "name": "Namoi"
+  },
+  "0-20010-0-07182": {
+    "lon": 6.5817,
+    "lat": 48.7158,
+    "start": "1984-01-01",
+    "country": "FRA",
+    "name": "Nancy"
+  },
+  "0-21010-0-292": {
+    "lon": -86.5625,
+    "lat": 36.2472,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Nashville"
+  },
+  "0-21010-0-293": {
+    "lon": -84.7194,
+    "lat": 44.9061,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Ncl Michigan"
+  },
+  "0-20010-0-10557": {
+    "lon": 11.135,
+    "lat": 50.5,
+    "start": "2012-01-10",
+    "country": "DEU",
+    "name": "NEU"
+  },
+  "0-20010-0-61281": {
+    "lon": 152.025,
+    "lat": -32.73,
+    "start": "2003-01-01",
+    "country": "AUS",
+    "name": "Newcastle"
+  },
+  "0-21010-0-658": {
+    "lon": 119.0087,
+    "lat": -33.097,
+    "start": "2016-01-01",
+    "country": "AUS",
+    "name": "Newdegate WA"
+  },
+  "0-20010-0-10605": {
+    "lon": 6.5483,
+    "lat": 50.1097,
+    "start": "2014-03-27",
+    "country": "DEU",
+    "name": "NHB"
+  },
+  "0-20010-0-07658": {
+    "lon": 4.5028,
+    "lat": 43.8061,
+    "start": "2008-01-01",
+    "country": "FRA",
+    "name": "N\u00eemes"
+  },
+  "0-21010-0-294": {
+    "lon": -165.295,
+    "lat": 64.5114,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Nome"
+  },
+  "0-21010-0-295": {
+    "lon": -77.0075,
+    "lat": 36.9839,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Norfolk"
+  },
+  "0-20010-0-94996": {
+    "lon": 167.933,
+    "lat": -29.033,
+    "start": "2003-01-01",
+    "country": "AUS",
+    "name": "Norfolk Is"
+  },
+  "0-21010-0-296": {
+    "lon": -97.2775,
+    "lat": 35.3331,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Norman"
+  },
+  "0-21010-0-297": {
+    "lon": -100.5761,
+    "lat": 41.9578,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "North Platte"
+  },
+  "0-21010-0-298": {
+    "lon": -86.0836,
+    "lat": 34.9306,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Northeast Alabama"
+  },
+  "0-21010-0-299": {
+    "lon": -85.7,
+    "lat": 41.0419,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Northern Indiana"
+  },
+  "0-21010-0-714": {
+    "lon": -2.89422,
+    "lat": 48.04682,
+    "start": "2018-01-01",
+    "country": "FRA",
+    "name": "Noyal"
+  },
+  "0-21010-0-735": {
+    "lon": 29.4488,
+    "lat": 63.8378,
+    "start": "2019-11-08",
+    "country": "FIN",
+    "name": "Nurmes"
+  },
+  "0-21010-0-510": {
+    "lon": 145.579,
+    "lat": -41.181,
+    "start": "2016-01-01",
+    "country": "AUS",
+    "name": "NW Tasmania  West Takone"
+  },
+  "0-20010-0-10629": {
+    "lon": 8.7129,
+    "lat": 49.9847,
+    "start": "2011-01-01",
+    "country": "DEU",
+    "name": "OFT"
+  },
+  "0-21010-0-722": {
+    "lon": 17.2592,
+    "lat": 49.5597,
+    "start": "2019-03-11",
+    "country": "CZE",
+    "name": "Olomouc MeteoSense  Meteopress"
+  },
+  "0-21010-0-300": {
+    "lon": -96.3681,
+    "lat": 41.3203,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Omaha"
+  },
+  "0-20010-0-07745": {
+    "lon": 2.865,
+    "lat": 42.9183,
+    "start": "2000-01-01",
+    "country": "FRA",
+    "name": "Opoul"
+  },
+  "0-21010-0-301": {
+    "lon": -88.7719,
+    "lat": 37.0683,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Paducah"
+  },
+  "0-20010-0-11126": {
+    "lon": 11.4611,
+    "lat": 47.2089,
+    "start": "2012-09-12",
+    "country": "AUT",
+    "name": "Patscherkofel 11126"
+  },
+  "0-21010-0-302": {
+    "lon": -118.8528,
+    "lat": 45.6906,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Pendleton"
+  },
+  "0-20010-0-94610": {
+    "lon": 115.9756,
+    "lat": -31.9273,
+    "start": "2009-01-01",
+    "country": "AUS",
+    "name": "Perth Airport"
+  },
+  "0-20010-0-09272": {
+    "lon": 115.867,
+    "lat": -32.3917,
+    "start": "2009-01-01",
+    "country": "AUS",
+    "name": "Perth Serpentine"
+  },
+  "0-20010-0-02775": {
+    "lon": 25.4401,
+    "lat": 62.3045,
+    "start": "2015-10-15",
+    "country": "FIN",
+    "name": "Petajavesi"
+  },
+  "0-21010-0-303": {
+    "lon": -74.4106,
+    "lat": 39.9469,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Philadelphia"
+  },
+  "0-21010-0-304": {
+    "lon": -111.67,
+    "lat": 33.2892,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Phoenix"
+  },
+  "0-21010-0-305": {
+    "lon": -80.2294,
+    "lat": 40.5317,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Pittsburgh"
+  },
+  "0-20010-0-07108": {
+    "lon": -4.4297,
+    "lat": 48.4608,
+    "start": "2012-01-01",
+    "country": "FRA",
+    "name": "Plabennec"
+  },
+  "0-21010-0-306": {
+    "lon": -94.2644,
+    "lat": 38.81,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Pleasant Hill"
+  },
+  "0-21010-0-717": {
+    "lon": 13.2147,
+    "lat": 49.7072,
+    "start": "2019-03-11",
+    "country": "CZE",
+    "name": "Plze\u0148 MeteoSense  Meteopress"
+  },
+  "0-21010-0-307": {
+    "lon": -112.6861,
+    "lat": 43.1056,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Pocatello"
+  },
+  "0-20010-0-94312": {
+    "lon": 118.6317,
+    "lat": -20.3719,
+    "start": "2005-01-01",
+    "country": "AUS",
+    "name": "Port Hedland"
+  },
+  "0-21010-0-308": {
+    "lon": -70.2561,
+    "lat": 43.8911,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Portland, Me"
+  },
+  "0-21010-0-309": {
+    "lon": -122.965,
+    "lat": 45.715,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Portland, Or"
+  },
+  "0-20010-0-10392": {
+    "lon": 13.8582,
+    "lat": 52.6487,
+    "start": "2014-01-01",
+    "country": "DEU",
+    "name": "PRO"
+  },
+  "0-21010-0-310": {
+    "lon": -104.1814,
+    "lat": 38.4594,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Pueblo"
+  },
+  "0-21010-0-311": {
+    "lon": -90.5808,
+    "lat": 41.6117,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Quad Cities"
+  },
+  "0-21010-0-712": {
+    "lon": 142.0133,
+    "lat": -35.9975,
+    "start": "2019-01-01",
+    "country": "AUS",
+    "name": "Rainbow"
+  },
+  "0-21010-0-723": {
+    "lon": 13.6889,
+    "lat": 50.0942,
+    "start": "2019-03-11",
+    "country": "CZE",
+    "name": "Rakovn\u00edk MeteoSense  Meteopress"
+  },
+  "0-21010-0-312": {
+    "lon": -78.49,
+    "lat": 35.6653,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Raleigh/Durham"
+  },
+  "0-21010-0-313": {
+    "lon": -102.83,
+    "lat": 44.1247,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Rapid City"
+  },
+  "0-20010-0-11038": {
+    "lon": 16.5619,
+    "lat": 48.1189,
+    "start": "2012-09-12",
+    "country": "AUT",
+    "name": "Rauchenwarth 11038"
+  },
+  "0-21010-0-314": {
+    "lon": -119.4619,
+    "lat": 39.7539,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Reno"
+  },
+  "0-21010-0-837": {
+    "lon": 143.1414,
+    "lat": -20.7518,
+    "start": "2022-09-29",
+    "country": "AUS",
+    "name": "Richmond"
+  },
+  "0-21010-0-315": {
+    "lon": -108.4772,
+    "lat": 43.0661,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Riverton/Lander"
+  },
+  "0-21010-0-316": {
+    "lon": -80.2742,
+    "lat": 37.0242,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Roanoke"
+  },
+  "0-21010-0-317": {
+    "lon": -83.3511,
+    "lat": 32.675,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Robins AFB"
+  },
+  "0-20010-0-94374": {
+    "lon": 150.4797,
+    "lat": -23.3797,
+    "start": "1993-01-01",
+    "country": "AUS",
+    "name": "Rockh\u2019tn"
+  },
+  "0-20010-0-10169": {
+    "lon": 12.0581,
+    "lat": 54.1757,
+    "start": "2014-06-11",
+    "country": "DEU",
+    "name": "ROS"
+  },
+  "0-21010-0-391": {
+    "lon": -86.6314,
+    "lat": 34.6028,
+    "start": "2010-01-01",
+    "country": "USA",
+    "name": "RSA"
+  },
+  "0-21010-0-318": {
+    "lon": -121.6778,
+    "lat": 38.5011,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Sacramento"
+  },
+  "0-21010-0-508": {
+    "lon": 145.683,
+    "lat": -16.817,
+    "start": "2016-01-01",
+    "country": "AUS",
+    "name": "Saddle Mt Cairns"
+  },
+  "0-20010-0-07381": {
+    "lon": 4.4453,
+    "lat": 46.0678,
+    "start": "2015-01-01",
+    "country": "FRA",
+    "name": "Saint-Nizier"
+  },
+  "0-21010-0-713": {
+    "lon": 2.9606,
+    "lat": 46.0664,
+    "start": "2017-09-23",
+    "country": "FRA",
+    "name": "Saint-Remy"
+  },
+  "0-21010-0-319": {
+    "lon": -112.4478,
+    "lat": 41.2628,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Salt Lake City"
+  },
+  "0-21010-0-320": {
+    "lon": -100.4922,
+    "lat": 31.3711,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "San Angelo"
+  },
+  "0-21010-0-321": {
+    "lon": -117.0419,
+    "lat": 32.9189,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "San Diego"
+  },
+  "0-21010-0-322": {
+    "lon": -121.8983,
+    "lat": 37.155,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "San Francisco"
+  },
+  "0-21010-0-323": {
+    "lon": -119.6319,
+    "lat": 36.3142,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "San Joaquin Valy"
+  },
+  "0-21010-0-324": {
+    "lon": -66.0781,
+    "lat": 18.1156,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "San Juan"
+  },
+  "0-21010-0-325": {
+    "lon": -117.6472,
+    "lat": 33.8272,
+    "start": "2012-11-04",
+    "country": "USA",
+    "name": "Santa Ana MTS"
+  },
+  "0-21010-0-392": {
+    "lon": -150.0833,
+    "lat": 61.2014,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "SBX-1 A"
+  },
+  "0-21010-0-393": {
+    "lon": -150.0833,
+    "lat": 61.2014,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "SBX-1 B"
+  },
+  "0-21010-0-326": {
+    "lon": -122.4956,
+    "lat": 48.1944,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Seattle"
+  },
+  "0-20010-0-07461": {
+    "lon": 3.7094,
+    "lat": 45.2892,
+    "start": "2013-01-01",
+    "country": "FRA",
+    "name": "Sembadel"
+  },
+  "0-21010-0-327": {
+    "lon": -93.8411,
+    "lat": 32.4508,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Shreveport"
+  },
+  "0-21010-0-328": {
+    "lon": -96.7289,
+    "lat": 43.5878,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Sioux Falls"
+  },
+  "0-21010-0-329": {
+    "lon": -135.5292,
+    "lat": 56.8528,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Sitka"
+  },
+  "0-20000-0-11718": {
+    "lon": 16.7886,
+    "lat": 49.5011,
+    "start": "2015-01-01",
+    "country": "CZE",
+    "name": "Skalky"
+  },
+  "0-21010-0-330": {
+    "lon": -89.8253,
+    "lat": 30.3367,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Slidell"
+  },
+  "0-21010-0-718": {
+    "lon": 14.7153,
+    "lat": 49.2494,
+    "start": "2019-03-11",
+    "country": "CZE",
+    "name": "Sob\u011bslav MeteoSense  Meteopress"
+  },
+  "0-21010-0-660": {
+    "lon": 117.9529,
+    "lat": -31.777,
+    "start": "2016-01-01",
+    "country": "AUS",
+    "name": "South Doodlakine Radar"
+  },
+  "0-21010-0-331": {
+    "lon": -159.5525,
+    "lat": 21.8939,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "South Kauai"
+  },
+  "0-21010-0-332": {
+    "lon": -155.5689,
+    "lat": 19.095,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "South Shore"
+  },
+  "0-21010-0-333": {
+    "lon": -117.6258,
+    "lat": 47.6806,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Spokane"
+  },
+  "0-21010-0-334": {
+    "lon": -93.4003,
+    "lat": 37.2353,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Springfield"
+  },
+  "0-21010-0-335": {
+    "lon": -90.6828,
+    "lat": 38.6989,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "St Louis"
+  },
+  "0-21010-0-336": {
+    "lon": -78.0039,
+    "lat": 40.9231,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "State College"
+  },
+  "0-21010-0-337": {
+    "lon": -77.4875,
+    "lat": 38.9761,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Sterling"
+  },
+  "0-21010-0-42": {
+    "lon": 25.5187,
+    "lat": 58.4823,
+    "start": "2008-05-27",
+    "country": "EST",
+    "name": "S\u00fcrgavere"
+  },
+  "0-21010-0-606": {
+    "lon": 151.2094,
+    "lat": -33.7008,
+    "start": "2009-01-01",
+    "country": "AUS",
+    "name": "Sydney Terrey Hills"
+  },
+  "0-21010-0-338": {
+    "lon": -84.3289,
+    "lat": 30.3975,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Tallahassee"
+  },
+  "0-21010-0-339": {
+    "lon": -82.4019,
+    "lat": 27.7053,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Tampa"
+  },
+  "0-21010-0-835": {
+    "lon": 149.8982,
+    "lat": -25.6962,
+    "start": "2022-04-28",
+    "country": "AUS",
+    "name": "Taroom"
+  },
+  "0-20010-0-94238": {
+    "lon": 134.1831,
+    "lat": -19.6422,
+    "start": "2005-01-01",
+    "country": "AUS",
+    "name": "Tennant Creek"
+  },
+  "0-21010-0-841": {
+    "lon": 151.9924,
+    "lat": -27.2743,
+    "start": "2024-04-18",
+    "country": "AUS",
+    "name": "Toowoomba"
+  },
+  "0-21010-0-340": {
+    "lon": -96.2325,
+    "lat": 38.9969,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Topeka"
+  },
+  "0-20010-0-07629": {
+    "lon": 1.3761,
+    "lat": 43.5744,
+    "start": "2006-01-01",
+    "country": "FRA",
+    "name": "Toulouse"
+  },
+  "0-20010-0-33321": {
+    "lon": 146.5508,
+    "lat": -19.4195,
+    "start": "2013-11-19",
+    "country": "AUS",
+    "name": "Townsville Hervey Range"
+  },
+  "0-20010-0-07145": {
+    "lon": 2.0083,
+    "lat": 48.7744,
+    "start": "2004-01-01",
+    "country": "FRA",
+    "name": "Trappes"
+  },
+  "0-20010-0-07223": {
+    "lon": -1.6564,
+    "lat": 47.3375,
+    "start": "2016-01-01",
+    "country": "FRA",
+    "name": "Treilli\u00e8res"
+  },
+  "0-21010-0-341": {
+    "lon": -110.6303,
+    "lat": 31.8936,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Tucson"
+  },
+  "0-21010-0-342": {
+    "lon": -95.5639,
+    "lat": 36.175,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Tulsa"
+  },
+  "0-20010-0-10832": {
+    "lon": 9.7827,
+    "lat": 48.5854,
+    "start": "2013-12-09",
+    "country": "DEU",
+    "name": "TUR"
+  },
+  "0-21010-0-395": {
+    "lon": -86.6439,
+    "lat": 34.7256,
+    "start": "2008-01-01",
+    "country": "USA",
+    "name": "UAH-MAX  Mobile Alabama X-Band"
+  },
+  "0-20010-0-10356": {
+    "lon": 11.1761,
+    "lat": 52.16,
+    "start": "2013-12-17",
+    "country": "DEU",
+    "name": "UMD"
+  },
+  "0-20010-0-02870": {
+    "lon": 26.3189,
+    "lat": 64.7749,
+    "start": "1997-09-26",
+    "country": "FIN",
+    "name": "Utajarvi"
+  },
+  "0-20010-0-11124": {
+    "lon": 10.2131,
+    "lat": 47.1575,
+    "start": "2012-09-12",
+    "country": "AUT",
+    "name": "Valluga 11124"
+  },
+  "0-21010-0-343": {
+    "lon": -98.1275,
+    "lat": 36.7408,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Vance Afb"
+  },
+  "0-21010-0-344": {
+    "lon": -120.3978,
+    "lat": 34.8383,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Vandenberg Afb"
+  },
+  "0-21010-0-49": {
+    "lon": 24.86902,
+    "lat": 60.27062,
+    "start": "1993-03-23",
+    "country": "FIN",
+    "name": "Vantaa"
+  },
+  "0-21010-0-871": {
+    "lon": 22.161673,
+    "lat": 58.3757953,
+    "start": "2026-05-26",
+    "country": "EST",
+    "name": "Varkja"
+  },
+  "0-20010-0-07714": {
+    "lon": 6.6531,
+    "lat": 44.5875,
+    "start": "2013-01-01",
+    "country": "FRA",
+    "name": "Vars"
+  },
+  "0-21010-0-814": {
+    "lon": 24.4956,
+    "lat": 60.5562,
+    "start": "2021-06-04",
+    "country": "FIN",
+    "name": "Vihti"
+  },
+  "0-20010-0-02925": {
+    "lon": 23.8209,
+    "lat": 63.1048,
+    "start": "2005-09-01",
+    "country": "FIN",
+    "name": "Vimpeli"
+  },
+  "0-21010-0-396": {
+    "lon": -86.8681,
+    "lat": 34.7656,
+    "start": "2011-01-01",
+    "country": "USA",
+    "name": "WAFF"
+  },
+  "0-20010-0-94910": {
+    "lon": 147.467,
+    "lat": -35.167,
+    "start": "1997-01-01",
+    "country": "AUS",
+    "name": "Wagga Wagga"
+  },
+  "0-21010-0-617": {
+    "lon": 147.3492,
+    "lat": -26.44,
+    "start": "2006-01-01",
+    "country": "AUS",
+    "name": "Warrego"
+  },
+  "0-21010-0-604": {
+    "lon": 133.38,
+    "lat": -11.6485,
+    "start": "2012-01-01",
+    "country": "AUS",
+    "name": "Warruwi"
+  },
+  "0-21010-0-663": {
+    "lon": 116.2896,
+    "lat": -30.36,
+    "start": "2017-01-01",
+    "country": "AUS",
+    "name": "Watheroo"
+  },
+  "0-21010-0-397": {
+    "lon": -88.1628,
+    "lat": 44.5128,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "WBAY"
+  },
+  "0-21010-0-398": {
+    "lon": -81.8631,
+    "lat": 26.6075,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "WBBH"
+  },
+  "0-21010-0-399": {
+    "lon": -71.8708,
+    "lat": 42.2717,
+    "start": "2004-01-01",
+    "country": "USA",
+    "name": "WBZ"
+  },
+  "0-21010-0-400": {
+    "lon": -73.9228,
+    "lat": 40.9611,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "WCBS"
+  },
+  "0-21010-0-401": {
+    "lon": -93.0956,
+    "lat": 45.1322,
+    "start": "2002-01-01",
+    "country": "USA",
+    "name": "WCCO"
+  },
+  "0-21010-0-402": {
+    "lon": -84.2069,
+    "lat": 39.0764,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "WCPO"
+  },
+  "0-21010-0-403": {
+    "lon": -84.2461,
+    "lat": 30.5028,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "WCTV"
+  },
+  "0-21010-0-404": {
+    "lon": -71.5172,
+    "lat": 42.2442,
+    "start": "2002-01-01",
+    "country": "USA",
+    "name": "WCVB"
+  },
+  "0-21010-0-405": {
+    "lon": -89.9578,
+    "lat": 29.95,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "WDSU"
+  },
+  "0-20010-0-94170": {
+    "lon": 141.9247,
+    "lat": -12.6664,
+    "start": "2002-01-01",
+    "country": "AUS",
+    "name": "Weipa"
+  },
+  "0-21010-0-345": {
+    "lon": -94.3617,
+    "lat": 35.2903,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Western Arkansas"
+  },
+  "0-21010-0-406": {
+    "lon": -88.0144,
+    "lat": 41.6133,
+    "start": "2007-01-01",
+    "country": "USA",
+    "name": "WFLD"
+  },
+  "0-21010-0-407": {
+    "lon": -81.2714,
+    "lat": 27.8156,
+    "start": "2002-01-01",
+    "country": "USA",
+    "name": "WFTS"
+  },
+  "0-21010-0-408": {
+    "lon": -81.0933,
+    "lat": 28.6025,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "WFTV"
+  },
+  "0-21010-0-409": {
+    "lon": -84.2481,
+    "lat": 39.7339,
+    "start": "2008-01-01",
+    "country": "USA",
+    "name": "WHIO"
+  },
+  "0-21010-0-410": {
+    "lon": -86.7714,
+    "lat": 34.6461,
+    "start": "2004-01-01",
+    "country": "USA",
+    "name": "WHNT"
+  },
+  "0-21010-0-346": {
+    "lon": -97.4431,
+    "lat": 37.6544,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Wichita"
+  },
+  "0-20010-0-06482": {
+    "lon": 5.5044,
+    "lat": 49.9136,
+    "start": "2022-09-01",
+    "country": "BEL",
+    "name": "Wideumont"
+  },
+  "0-20010-0-94299": {
+    "lon": 149.9646,
+    "lat": -16.2878,
+    "start": "2011-01-01",
+    "country": "AUS",
+    "name": "Willis Island"
+  },
+  "0-21010-0-347": {
+    "lon": -78.4292,
+    "lat": 33.9892,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Wilmington"
+  },
+  "0-21010-0-411": {
+    "lon": -80.07,
+    "lat": 42.0403,
+    "start": "1999-01-01",
+    "country": "USA",
+    "name": "WJET"
+  },
+  "0-21010-0-412": {
+    "lon": -76.775,
+    "lat": 38.9439,
+    "start": "2001-01-01",
+    "country": "USA",
+    "name": "WJLA"
+  },
+  "0-21010-0-413": {
+    "lon": -81.6894,
+    "lat": 41.3853,
+    "start": "2001-01-01",
+    "country": "USA",
+    "name": "WKYC"
+  },
+  "0-21010-0-414": {
+    "lon": -84.4878,
+    "lat": 38.0653,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "WLEX"
+  },
+  "0-21010-0-415": {
+    "lon": -90.2292,
+    "lat": 35.1342,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "WMC"
+  },
+  "0-21010-0-416": {
+    "lon": -84.0561,
+    "lat": 43.5392,
+    "start": "2002-01-01",
+    "country": "USA",
+    "name": "WNEM"
+  },
+  "0-21010-0-417": {
+    "lon": -74.5592,
+    "lat": 40.6047,
+    "start": "2007-01-01",
+    "country": "USA",
+    "name": "WNYW"
+  },
+  "0-21010-0-418": {
+    "lon": -81.0864,
+    "lat": 28.6033,
+    "start": "2009-01-01",
+    "country": "USA",
+    "name": "WOFL"
+  },
+  "0-20010-0-68219": {
+    "lon": 150.8752,
+    "lat": -34.2625,
+    "start": "2011-01-01",
+    "country": "AUS",
+    "name": "Wollongong Appin"
+  },
+  "0-20010-0-94659": {
+    "lon": 136.803,
+    "lat": -31.157,
+    "start": "2001-01-01",
+    "country": "AUS",
+    "name": "Woomera"
+  },
+  "0-21010-0-419": {
+    "lon": -80.2131,
+    "lat": 26.5894,
+    "start": "2005-01-01",
+    "country": "USA",
+    "name": "WPTV"
+  },
+  "0-21010-0-420": {
+    "lon": -89.8103,
+    "lat": 35.1883,
+    "start": "2003-01-01",
+    "country": "USA",
+    "name": "WPTY"
+  },
+  "0-21010-0-421": {
+    "lon": -75.0828,
+    "lat": 40.2006,
+    "start": "2002-01-01",
+    "country": "USA",
+    "name": "WPVI"
+  },
+  "0-21010-0-422": {
+    "lon": -80.0514,
+    "lat": 40.2933,
+    "start": "2008-01-01",
+    "country": "USA",
+    "name": "WPXI"
+  },
+  "0-21010-0-423": {
+    "lon": -78.5267,
+    "lat": 35.6778,
+    "start": "2007-01-01",
+    "country": "USA",
+    "name": "WRAL"
+  },
+  "0-21010-0-424": {
+    "lon": -85.1614,
+    "lat": 33.7836,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "WSB"
+  },
+  "0-21010-0-425": {
+    "lon": -80.6381,
+    "lat": 35.2267,
+    "start": "2007-01-01",
+    "country": "USA",
+    "name": "WSOC"
+  },
+  "0-21010-0-426": {
+    "lon": -79.8667,
+    "lat": 40.4364,
+    "start": "2000-01-01",
+    "country": "USA",
+    "name": "WTAE"
+  },
+  "0-21010-0-427": {
+    "lon": -76.875,
+    "lat": 39.0567,
+    "start": "2004-01-01",
+    "country": "USA",
+    "name": "WTTG"
+  },
+  "0-21010-0-428": {
+    "lon": -78.5317,
+    "lat": 35.6694,
+    "start": "2007-01-01",
+    "country": "USA",
+    "name": "WTVD"
+  },
+  "0-21010-0-429": {
+    "lon": -83.4131,
+    "lat": 41.6833,
+    "start": "2004-01-01",
+    "country": "USA",
+    "name": "WTVG"
+  },
+  "0-21010-0-430": {
+    "lon": -80.3506,
+    "lat": 25.9739,
+    "start": "2000-01-01",
+    "country": "USA",
+    "name": "WTVJ"
+  },
+  "0-21010-0-431": {
+    "lon": -82.4967,
+    "lat": 27.945,
+    "start": "2006-01-01",
+    "country": "USA",
+    "name": "WTVT"
+  },
+  "0-21010-0-432": {
+    "lon": -76.9617,
+    "lat": 39.0011,
+    "start": "2001-01-01",
+    "country": "USA",
+    "name": "WUSA"
+  },
+  "0-21010-0-511": {
+    "lon": 128.119,
+    "lat": -15.453,
+    "start": "2001-01-01",
+    "country": "AUS",
+    "name": "Wyndham"
+  },
+  "0-20010-0-94862": {
+    "lon": 146.0228,
+    "lat": -36.0297,
+    "start": "2003-01-01",
+    "country": "AUS",
+    "name": "Yarrawonga"
+  },
+  "0-21010-0-834": {
+    "lon": 148.7081,
+    "lat": -32.7444,
+    "start": "2022-05-24",
+    "country": "AUS",
+    "name": "Yeoval"
+  },
+  "0-21010-0-348": {
+    "lon": -114.6567,
+    "lat": 32.4953,
+    "start": "2012-09-12",
+    "country": "USA",
+    "name": "Yuma"
+  },
+  "0-20010-0-06451": {
+    "lon": 4.4578,
+    "lat": 50.9053,
+    "start": "2003-01-01",
+    "country": "BEL",
+    "name": "Zaventem"
+  },
+  "0-20010-0-11164": {
+    "lon": 14.56,
+    "lat": 47.0719,
+    "start": "2012-09-12",
+    "country": "AUT",
+    "name": "Ziribitzkogel "
+  },
+  "0-21010-0-719": {
+    "lon": 16.0672,
+    "lat": 48.8186,
+    "start": "2019-03-11",
+    "country": "CZE",
+    "name": "Znojmo MeteoSense  Meteopress"
+  }
+}
