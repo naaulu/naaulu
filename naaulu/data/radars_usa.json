@@ -1,0 +1,590 @@
+{
+  "0-21010-0-190": [
+    "KABR",
+    "Aberdeen"
+  ],
+  "0-21010-0-191": [
+    "KENX",
+    "Albany"
+  ],
+  "0-21010-0-192": [
+    "KABX",
+    "Albuquerque"
+  ],
+  "0-21010-0-193": [
+    "KFDR",
+    "Altus Afb"
+  ],
+  "0-21010-0-194": [
+    "KAMA",
+    "Amarillo"
+  ],
+  "0-21010-0-196": [
+    "PGUA",
+    "Andersen Afb"
+  ],
+  "0-21010-0-197": [
+    "KFFC",
+    "Atlanta"
+  ],
+  "0-21010-0-198": [
+    "KEWX",
+    "Austin/San Antonio"
+  ],
+  "0-21010-0-199": [
+    "KBBX",
+    "Beale Afb"
+  ],
+  "0-21010-0-200": [
+    "PABC",
+    "Bethel"
+  ],
+  "0-21010-0-201": [
+    "KBLX",
+    "Billings"
+  ],
+  "0-21010-0-202": [
+    "KBGM",
+    "Binghamton"
+  ],
+  "0-21010-0-203": [
+    "KBMX",
+    "Birmingham"
+  ],
+  "0-21010-0-204": [
+    "KBIS",
+    "Bismarck"
+  ],
+  "0-21010-0-205": [
+    "KCBX",
+    "Boise"
+  ],
+  "0-21010-0-206": [
+    "KBOX",
+    "Boston"
+  ],
+  "0-21010-0-207": [
+    "KOKX",
+    "Brookhaven"
+  ],
+  "0-21010-0-208": [
+    "KBRO",
+    "Brownsville"
+  ],
+  "0-21010-0-209": [
+    "KBUF",
+    "Buffalo"
+  ],
+  "0-21010-0-210": [
+    "KCXX",
+    "Burlington"
+  ],
+  "0-21010-0-211": [
+    "RKSG",
+    "Camp Humphreys"
+  ],
+  "0-21010-0-212": [
+    "KFDX",
+    "Cannon Afb"
+  ],
+  "0-21010-0-213": [
+    "KCBW",
+    "Caribou"
+  ],
+  "0-21010-0-214": [
+    "KICX",
+    "Cedar City"
+  ],
+  "0-21010-0-215": [
+    "KCLX",
+    "Charleston, Sc"
+  ],
+  "0-21010-0-216": [
+    "KRLX",
+    "Charleston, Wv"
+  ],
+  "0-21010-0-218": [
+    "KLOT",
+    "Chicago"
+  ],
+  "0-21010-0-219": [
+    "KILN",
+    "Cincinnati"
+  ],
+  "0-21010-0-220": [
+    "KCLE",
+    "Cleveland"
+  ],
+  "0-21010-0-221": [
+    "KCAE",
+    "Columbia"
+  ],
+  "0-21010-0-222": [
+    "KGWX",
+    "Columbus Afb"
+  ],
+  "0-21010-0-223": [
+    "KCRP",
+    "Corpus Christi"
+  ],
+  "0-21010-0-224": [
+    "KFWS",
+    "Dallas/Ft Worth"
+  ],
+  "0-21010-0-225": [
+    "KFTG",
+    "Denver"
+  ],
+  "0-21010-0-226": [
+    "KDMX",
+    "Des Moines"
+  ],
+  "0-21010-0-227": [
+    "KDTX",
+    "Detroit"
+  ],
+  "0-21010-0-228": [
+    "KDDC",
+    "Dodge City"
+  ],
+  "0-21010-0-229": [
+    "KDOX",
+    "Dover Afb"
+  ],
+  "0-21010-0-230": [
+    "KDLH",
+    "Duluth"
+  ],
+  "0-21010-0-231": [
+    "KDYX",
+    "Dyess Afb"
+  ],
+  "0-21010-0-232": [
+    "KEYX",
+    "Edwards Afb"
+  ],
+  "0-21010-0-233": [
+    "KEVX",
+    "Eglin Afb"
+  ],
+  "0-21010-0-235": [
+    "KLRX",
+    "Elko"
+  ],
+  "0-21010-0-236": [
+    "KBHX",
+    "Eureka (Bunker Hill)"
+  ],
+  "0-21010-0-237": [
+    "KVWX",
+    "Evansville, In"
+  ],
+  "0-21010-0-239": [
+    "KMVX",
+    "Fargo/Grand Forks"
+  ],
+  "0-21010-0-240": [
+    "KFSX",
+    "Flagstaff"
+  ],
+  "0-21010-0-241": [
+    "KHPX",
+    "Ft Campbell"
+  ],
+  "0-21010-0-242": [
+    "KTYX",
+    "Ft Drum"
+  ],
+  "0-21010-0-243": [
+    "KGRK",
+    "Ft Hood"
+  ],
+  "0-21010-0-244": [
+    "KPOE",
+    "Ft Polk"
+  ],
+  "0-21010-0-245": [
+    "KEOX",
+    "Ft Rucker"
+  ],
+  "0-21010-0-246": [
+    "KGGW",
+    "Glasgow"
+  ],
+  "0-21010-0-247": [
+    "KGLD",
+    "Goodland"
+  ],
+  "0-21010-0-248": [
+    "KUEX",
+    "Grand Island"
+  ],
+  "0-21010-0-249": [
+    "KGJX",
+    "Grand Junction"
+  ],
+  "0-21010-0-250": [
+    "KGRR",
+    "Grand Rapids"
+  ],
+  "0-21010-0-251": [
+    "KTFX",
+    "Great Falls"
+  ],
+  "0-21010-0-252": [
+    "KGRB",
+    "Green Bay"
+  ],
+  "0-21010-0-253": [
+    "KGSP",
+    "Greer"
+  ],
+  "0-21010-0-255": [
+    "KHGX",
+    "Houston"
+  ],
+  "0-21010-0-256": [
+    "KIND",
+    "Indianapolis"
+  ],
+  "0-21010-0-257": [
+    "KJKL",
+    "Jackson, Ky"
+  ],
+  "0-21010-0-258": [
+    "KDGX",
+    "Jackson/Brandon, Ms"
+  ],
+  "0-21010-0-260": [
+    "RODN",
+    "Kadena Ab"
+  ],
+  "0-21010-0-261": [
+    "PHKM",
+    "Kamuela/Kohala Apt"
+  ],
+  "0-21010-0-262": [
+    "KBYX",
+    "Key West"
+  ],
+  "0-21010-0-263": [
+    "PAKC",
+    "King Salmon"
+  ],
+  "0-21010-0-264": [
+    "KMRX",
+    "Knoxville"
+  ],
+  "0-21010-0-265": [
+    "RKJK",
+    "Kunsan Ab"
+  ],
+  "0-21010-0-266": [
+    "KARX",
+    "La Crosse"
+  ],
+  "0-21010-0-267": [
+    "LPLA",
+    "Lajes Ab"
+  ],
+  "0-21010-0-268": [
+    "KLCH",
+    "Lake Charles"
+  ],
+  "0-21010-0-269": [
+    "KESX",
+    "Las Vegas"
+  ],
+  "0-21010-0-270": [
+    "KDFX",
+    "Laughlin Afb"
+  ],
+  "0-21010-0-272": [
+    "KLZK",
+    "Little Rock"
+  ],
+  "0-21010-0-273": [
+    "KVTX",
+    "Los Angeles"
+  ],
+  "0-21010-0-275": [
+    "KLBB",
+    "Lubbock"
+  ],
+  "0-21010-0-276": [
+    "KMQT",
+    "Marquette"
+  ],
+  "0-21010-0-277": [
+    "KMXX",
+    "Maxwell Afb"
+  ],
+  "0-21010-0-278": [
+    "KMAX",
+    "Medford"
+  ],
+  "0-21010-0-279": [
+    "KMLB",
+    "Melbourne"
+  ],
+  "0-21010-0-280": [
+    "KNQA",
+    "Memphis"
+  ],
+  "0-21010-0-281": [
+    "KAMX",
+    "Miami"
+  ],
+  "0-21010-0-282": [
+    "PAIH",
+    "Middleton Island"
+  ],
+  "0-21010-0-283": [
+    "KMAF",
+    "Midland/Odessa"
+  ],
+  "0-21010-0-284": [
+    "KMKX",
+    "Milwaukee"
+  ],
+  "0-21010-0-285": [
+    "KMPX",
+    "Minneapolis"
+  ],
+  "0-21010-0-286": [
+    "KMBX",
+    "Minot AFB"
+  ],
+  "0-21010-0-287": [
+    "KMSX",
+    "Missoula"
+  ],
+  "0-21010-0-288": [
+    "KMOB",
+    "Mobile"
+  ],
+  "0-21010-0-289": [
+    "PHMO",
+    "Molokai"
+  ],
+  "0-21010-0-291": [
+    "KMHX",
+    "Morehead City"
+  ],
+  "0-21010-0-292": [
+    "KOHX",
+    "Nashville"
+  ],
+  "0-21010-0-293": [
+    "KAPX",
+    "Ncl Michigan"
+  ],
+  "0-21010-0-294": [
+    "PAEC",
+    "Nome"
+  ],
+  "0-21010-0-295": [
+    "KAKQ",
+    "Norfolk"
+  ],
+  "0-21010-0-296": [
+    "KTLX",
+    "Norman"
+  ],
+  "0-21010-0-297": [
+    "KLNX",
+    "North Platte"
+  ],
+  "0-21010-0-298": [
+    "KHTX",
+    "Northeast Alabama"
+  ],
+  "0-21010-0-300": [
+    "KOAX",
+    "Omaha"
+  ],
+  "0-21010-0-301": [
+    "KPAH",
+    "Paducah"
+  ],
+  "0-21010-0-302": [
+    "KPDT",
+    "Pendleton"
+  ],
+  "0-21010-0-303": [
+    "KDIX",
+    "Philadelphia"
+  ],
+  "0-21010-0-304": [
+    "KIWA",
+    "Phoenix"
+  ],
+  "0-21010-0-306": [
+    "KEAX",
+    "Pleasant Hill"
+  ],
+  "0-21010-0-307": [
+    "KSFX",
+    "Pocatello"
+  ],
+  "0-21010-0-308": [
+    "KGYX",
+    "Portland, Me"
+  ],
+  "0-21010-0-309": [
+    "KRTX",
+    "Portland, Or"
+  ],
+  "0-21010-0-310": [
+    "KPUX",
+    "Pueblo"
+  ],
+  "0-21010-0-311": [
+    "KDVN",
+    "Quad Cities"
+  ],
+  "0-21010-0-312": [
+    "KRAX",
+    "Raleigh/Durham"
+  ],
+  "0-21010-0-313": [
+    "KUDX",
+    "Rapid City"
+  ],
+  "0-21010-0-314": [
+    "KRGX",
+    "Reno"
+  ],
+  "0-21010-0-315": [
+    "KRIW",
+    "Riverton/Lander"
+  ],
+  "0-21010-0-316": [
+    "KFCX",
+    "Roanoke"
+  ],
+  "0-21010-0-317": [
+    "KJGX",
+    "Robins AFB"
+  ],
+  "0-21010-0-318": [
+    "KDAX",
+    "Sacramento"
+  ],
+  "0-21010-0-319": [
+    "KMTX",
+    "Salt Lake City"
+  ],
+  "0-21010-0-320": [
+    "KSJT",
+    "San Angelo"
+  ],
+  "0-21010-0-321": [
+    "KNKX",
+    "San Diego"
+  ],
+  "0-21010-0-322": [
+    "KMUX",
+    "San Francisco"
+  ],
+  "0-21010-0-323": [
+    "KHNX",
+    "San Joaquin Valy"
+  ],
+  "0-21010-0-324": [
+    "TJUA",
+    "San Juan"
+  ],
+  "0-21010-0-326": [
+    "KATX",
+    "Seattle"
+  ],
+  "0-21010-0-327": [
+    "KSHV",
+    "Shreveport"
+  ],
+  "0-21010-0-328": [
+    "KFSD",
+    "Sioux Falls"
+  ],
+  "0-21010-0-329": [
+    "PACG",
+    "Sitka"
+  ],
+  "0-21010-0-330": [
+    "KLIX",
+    "Slidell"
+  ],
+  "0-21010-0-331": [
+    "PHKI",
+    "South Kauai"
+  ],
+  "0-21010-0-332": [
+    "PHWA",
+    "South Shore"
+  ],
+  "0-21010-0-333": [
+    "KOTX",
+    "Spokane"
+  ],
+  "0-21010-0-334": [
+    "KSGF",
+    "Springfield"
+  ],
+  "0-21010-0-335": [
+    "KLSX",
+    "St Louis"
+  ],
+  "0-21010-0-336": [
+    "KCCX",
+    "State College"
+  ],
+  "0-21010-0-337": [
+    "KLWX",
+    "Sterling"
+  ],
+  "0-21010-0-338": [
+    "KTLH",
+    "Tallahassee"
+  ],
+  "0-21010-0-339": [
+    "KTBW",
+    "Tampa"
+  ],
+  "0-21010-0-340": [
+    "KTWX",
+    "Topeka"
+  ],
+  "0-21010-0-341": [
+    "KEMX",
+    "Tucson"
+  ],
+  "0-21010-0-342": [
+    "KINX",
+    "Tulsa"
+  ],
+  "0-21010-0-343": [
+    "KVNX",
+    "Vance Afb"
+  ],
+  "0-21010-0-344": [
+    "KVBX",
+    "Vandenberg Afb"
+  ],
+  "0-21010-0-345": [
+    "KSRX",
+    "Western Arkansas"
+  ],
+  "0-21010-0-346": [
+    "KICT",
+    "Wichita"
+  ],
+  "0-21010-0-347": [
+    "KLTX",
+    "Wilmington"
+  ],
+  "0-21010-0-348": [
+    "KYUX",
+    "Yuma"
+  ]
+}
